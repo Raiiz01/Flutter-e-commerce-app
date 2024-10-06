@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575766585927",
+    "project_id": "raiizcommerce",
+    "storage_bucket": "raiizcommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575766585927:android:b262d89c74ebe39a8f8762",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0D7SgrLCLM_ALCUQO2E_wVJDf2RCSY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
